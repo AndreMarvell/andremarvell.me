@@ -8,12 +8,12 @@ Mon site web personnel
 
 ## Screenshots
 
-<img src="http://andremarvell.me/img/snap1.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
-<img src="http://andremarvell.me/img/snap2.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
-<img src="http://andremarvell.me/img/snap3.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
-<img src="http://andremarvell.me/img/snap4.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
-<img src="http://andremarvell.me/img/snap5.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
-<img src="http://andremarvell.me/img/snap6.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap1.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap2.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap3.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap4.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap5.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
+<img src="http://andremarvell.me/img/snaps/snap6.png" height="250px" style="border : solid whitesmoke 4px">&nbsp;&nbsp;&nbsp;
 
 
 
