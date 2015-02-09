@@ -347,3 +347,9 @@ Expérience
 ========================================================================== */
 .company-pics{margin-bottom: 20px;height: 70px;}
 #experience p {font-size: 12px;text-align: justify;color: #000;font-weight: 300;}
+
+@media only screen and (max-width : 320px) {
+    .swag h1{font-size: 20px;}
+    
+    .company-pics{margin-bottom: 10px;height: 40px;}
+}
