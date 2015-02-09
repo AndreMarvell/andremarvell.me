@@ -352,4 +352,8 @@ Expérience
     .swag h1{font-size: 20px;}
     
     .company-pics{margin-bottom: 10px;height: 40px;}
+    
+    .hero h1{font-size:20px;}
+    .hero img{width: 100px;}
+    .hero p{font-size: 15px;}
 }
